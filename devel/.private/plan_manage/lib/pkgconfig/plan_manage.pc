@@ -1,0 +1,8 @@
+prefix=/home/xechariah/projects/entry_level_project/devel/.private/plan_manage
+
+Name: plan_manage
+Description: Description of plan_manage
+Version: 0.0.0
+Cflags: -I/home/xechariah/projects/entry_level_project/devel/.private/plan_manage/include -I/home/xechariah/projects/entry_level_project/src/Fast-Planner/planner/plan_manage/include
+Libs: -L${prefix}/lib -lplan_manage
+Requires: plan_env path_searching bspline bspline_opt traj_utils message_runtime nlopt

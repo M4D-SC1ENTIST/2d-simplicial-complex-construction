@@ -1,0 +1,5 @@
+kr_mav_control/kr_mav_launch
+/home/xechariah/projects/entry_level_project/devel/.private/kr_mav_launch/cmake.lock /home/xechariah/projects/entry_level_project/devel/./cmake.lock
+/home/xechariah/projects/entry_level_project/devel/.private/kr_mav_launch/lib/pkgconfig/kr_mav_launch.pc /home/xechariah/projects/entry_level_project/devel/lib/pkgconfig/kr_mav_launch.pc
+/home/xechariah/projects/entry_level_project/devel/.private/kr_mav_launch/share/kr_mav_launch/cmake/kr_mav_launchConfig-version.cmake /home/xechariah/projects/entry_level_project/devel/share/kr_mav_launch/cmake/kr_mav_launchConfig-version.cmake
+/home/xechariah/projects/entry_level_project/devel/.private/kr_mav_launch/share/kr_mav_launch/cmake/kr_mav_launchConfig.cmake /home/xechariah/projects/entry_level_project/devel/share/kr_mav_launch/cmake/kr_mav_launchConfig.cmake

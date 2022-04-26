@@ -1,0 +1,30 @@
+\subsubsection usage Usage
+\verbatim
+<node name="kr_mav_controllers" pkg="kr_mav_controllers" type="kr_mav_controllers">
+  <param name="kp_x" type="double" value="7.4" />
+  <param name="kp_y" type="double" value="7.4" />
+  <param name="kp_z" type="double" value="10.4" />
+  <param name="kd_x" type="double" value="4.8" />
+  <param name="kd_y" type="double" value="4.8" />
+  <param name="kd_z" type="double" value="6.0" />
+  <param name="ki_x" type="double" value="0.0" />
+  <param name="ki_y" type="double" value="0.0" />
+  <param name="ki_z" type="double" value="0.0" />
+  <param name="kib_x" type="double" value="0.0" />
+  <param name="kib_y" type="double" value="0.0" />
+  <param name="kib_z" type="double" value="0.0" />
+  <param name="rot_x" type="double" value="1.5" />
+  <param name="rot_y" type="double" value="1.5" />
+  <param name="rot_z" type="double" value="1.0" />
+  <param name="ang_x" type="double" value="0.13" />
+  <param name="ang_y" type="double" value="0.13" />
+  <param name="ang_z" type="double" value="0.1" />
+  <param name="kf_correction" type="double" value="0.0" />
+  <param name="roll_correction" type="double" value="0.0" />
+  <param name="pitch_correction" type="double" value="0.0" />
+  <param name="max_pos_int" type="double" value="0.0" />
+  <param name="max_pos_int_b" type="double" value="0.0" />
+  <param name="max_tilt_angle" type="double" value="3.14" />
+</node>
+\endverbatim
+

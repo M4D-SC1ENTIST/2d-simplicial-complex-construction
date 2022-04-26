@@ -1,0 +1,6 @@
+waypoint_navigation_plugin
+/home/xechariah/projects/entry_level_project/devel/.private/waypoint_navigation_plugin/cmake.lock /home/xechariah/projects/entry_level_project/devel/./cmake.lock
+/home/xechariah/projects/entry_level_project/devel/.private/waypoint_navigation_plugin/lib/libwaypoint_nav_plugin.so /home/xechariah/projects/entry_level_project/devel/lib/libwaypoint_nav_plugin.so
+/home/xechariah/projects/entry_level_project/devel/.private/waypoint_navigation_plugin/lib/pkgconfig/waypoint_navigation_plugin.pc /home/xechariah/projects/entry_level_project/devel/lib/pkgconfig/waypoint_navigation_plugin.pc
+/home/xechariah/projects/entry_level_project/devel/.private/waypoint_navigation_plugin/share/waypoint_navigation_plugin/cmake/waypoint_navigation_pluginConfig-version.cmake /home/xechariah/projects/entry_level_project/devel/share/waypoint_navigation_plugin/cmake/waypoint_navigation_pluginConfig-version.cmake
+/home/xechariah/projects/entry_level_project/devel/.private/waypoint_navigation_plugin/share/waypoint_navigation_plugin/cmake/waypoint_navigation_pluginConfig.cmake /home/xechariah/projects/entry_level_project/devel/share/waypoint_navigation_plugin/cmake/waypoint_navigation_pluginConfig.cmake

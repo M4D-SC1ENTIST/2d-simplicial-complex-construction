@@ -1,0 +1,8 @@
+prefix=/home/xechariah/projects/entry_level_project/devel/.private/kr_quadrotor_simulator
+
+Name: kr_quadrotor_simulator
+Description: Description of kr_quadrotor_simulator
+Version: 1.0.0
+Cflags: -I/usr/include/eigen3
+Libs: -L${prefix}/lib 
+Requires: geometry_msgs kr_mav_msgs nav_msgs roscpp sensor_msgs tf2_ros

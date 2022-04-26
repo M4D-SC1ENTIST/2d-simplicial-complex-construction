@@ -1,0 +1,8 @@
+prefix=/home/xechariah/projects/entry_level_project/install
+
+Name: kr_trackers_manager
+Description: Description of kr_trackers_manager
+Version: 1.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lkr_trackers_manager
+Requires: roscpp nodelet pluginlib kr_mav_msgs nav_msgs kr_tracker_msgs

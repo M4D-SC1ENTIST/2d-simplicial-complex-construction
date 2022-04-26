@@ -1,0 +1,8 @@
+prefix=/home/xechariah/projects/entry_level_project/devel/.private/path_searching
+
+Name: path_searching
+Description: Description of path_searching
+Version: 0.0.0
+Cflags: -I/home/xechariah/projects/entry_level_project/src/Fast-Planner/planner/path_searching/include
+Libs: -L${prefix}/lib -lpath_searching
+Requires: plan_env

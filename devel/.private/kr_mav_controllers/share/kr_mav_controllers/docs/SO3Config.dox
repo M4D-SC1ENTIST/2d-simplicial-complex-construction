@@ -1,0 +1,29 @@
+\subsubsection parameters ROS parameters
+
+Reads and maintains the following parameters on the ROS server
+
+- \b "~kp_x" : \b [double] World x position gain min: 0.0, default: 7.4, max: 20.0
+- \b "~kp_y" : \b [double] World y position gain min: 0.0, default: 7.4, max: 20.0
+- \b "~kp_z" : \b [double] World z position gain min: 0.0, default: 10.4, max: 20.0
+- \b "~kd_x" : \b [double] World x derivative gain min: 0.0, default: 4.8, max: 20.0
+- \b "~kd_y" : \b [double] World y derivative gain min: 0.0, default: 4.8, max: 20.0
+- \b "~kd_z" : \b [double] World z derivative gain min: 0.0, default: 6.0, max: 20.0
+- \b "~ki_x" : \b [double] World x integral gain min: 0.0, default: 0.0, max: 0.2
+- \b "~ki_y" : \b [double] World y integral gain min: 0.0, default: 0.0, max: 0.2
+- \b "~ki_z" : \b [double] World z integral gain min: 0.0, default: 0.0, max: 0.2
+- \b "~kib_x" : \b [double] Body x integral gain min: 0.0, default: 0.0, max: 0.2
+- \b "~kib_y" : \b [double] Body y integral gain min: 0.0, default: 0.0, max: 0.2
+- \b "~kib_z" : \b [double] Body z integral gain min: 0.0, default: 0.0, max: 0.2
+- \b "~rot_x" : \b [double] Rotation x gain min: 0.0, default: 1.5, max: 3.0
+- \b "~rot_y" : \b [double] Rotation y gain min: 0.0, default: 1.5, max: 3.0
+- \b "~rot_z" : \b [double] Rotation z gain min: 0.0, default: 1.0, max: 3.0
+- \b "~ang_x" : \b [double] Angular x gain min: 0.0, default: 0.13, max: 1.0
+- \b "~ang_y" : \b [double] Angular y gain min: 0.0, default: 0.13, max: 1.0
+- \b "~ang_z" : \b [double] Angular z gain min: 0.0, default: 0.1, max: 1.0
+- \b "~kf_correction" : \b [double] kf min: 0.0, default: 0.0, max: 0.0
+- \b "~roll_correction" : \b [double] roll min: 0.0, default: 0.0, max: 0.0
+- \b "~pitch_correction" : \b [double] pitch min: 0.0, default: 0.0, max: 0.0
+- \b "~max_pos_int" : \b [double] World max integral min: 0.0, default: 0.0, max: 4.0
+- \b "~max_pos_int_b" : \b [double] Body max integral min: 0.0, default: 0.0, max: 4.0
+- \b "~max_tilt_angle" : \b [double] Max tilt angle min: 0.0, default: 3.14, max: 3.14
+

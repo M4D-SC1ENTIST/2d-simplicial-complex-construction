@@ -1,0 +1,3 @@
+[01m[K/home/xechariah/projects/entry_level_project/src/waypoint_navigation_plugin/src/waypoint_nav_frame.cpp:62:3:[m[K [01;35m[Kwarning: [m[Kinline variables are only available with ‘[01m[K-std=c++17[m[K’ or ‘[01m[K-std=gnu++17[m[K’
+   62 |   [01;35m[Kinline[m[K static const std::string kPosition = "position";
+      |   [01;35m[K^~~~~~[m[K

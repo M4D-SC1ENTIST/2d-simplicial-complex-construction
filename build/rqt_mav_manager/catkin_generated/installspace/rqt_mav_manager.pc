@@ -1,0 +1,8 @@
+prefix=/home/xechariah/projects/entry_level_project/install
+
+Name: rqt_mav_manager
+Description: Description of rqt_mav_manager
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

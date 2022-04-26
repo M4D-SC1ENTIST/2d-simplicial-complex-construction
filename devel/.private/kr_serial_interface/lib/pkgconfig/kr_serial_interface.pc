@@ -1,0 +1,8 @@
+prefix=/home/xechariah/projects/entry_level_project/devel/.private/kr_serial_interface
+
+Name: kr_serial_interface
+Description: Description of kr_serial_interface
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib -lkr_serial_interface
+Requires: nodelet kr_mav_msgs roscpp sensor_msgs

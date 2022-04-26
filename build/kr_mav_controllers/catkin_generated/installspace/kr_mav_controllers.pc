@@ -1,0 +1,8 @@
+prefix=/home/xechariah/projects/entry_level_project/install
+
+Name: kr_mav_controllers
+Description: Description of kr_mav_controllers
+Version: 1.0.0
+Cflags: -I${prefix}/include -I/usr/include/eigen3
+Libs: -L${prefix}/lib 
+Requires: dynamic_reconfigure geometry_msgs kr_mav_msgs nav_msgs nodelet roscpp std_msgs tf

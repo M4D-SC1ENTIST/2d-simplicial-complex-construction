@@ -1,0 +1,8 @@
+prefix=/home/xechariah/projects/entry_level_project/devel/.private/kr_mesh_visualization
+
+Name: kr_mesh_visualization
+Description: Description of kr_mesh_visualization
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: geometry_msgs nav_msgs topic_tools visualization_msgs

@@ -1,0 +1,6 @@
+kr_mav_control/interfaces/kr_python_interface
+/home/xechariah/projects/entry_level_project/devel/.private/kr_python_interface/cmake.lock /home/xechariah/projects/entry_level_project/devel/./cmake.lock
+/home/xechariah/projects/entry_level_project/devel/.private/kr_python_interface/lib/pkgconfig/kr_python_interface.pc /home/xechariah/projects/entry_level_project/devel/lib/pkgconfig/kr_python_interface.pc
+/home/xechariah/projects/entry_level_project/devel/.private/kr_python_interface/lib/python3/dist-packages/kr_python_interface/__init__.py /home/xechariah/projects/entry_level_project/devel/lib/python3/dist-packages/kr_python_interface/__init__.py
+/home/xechariah/projects/entry_level_project/devel/.private/kr_python_interface/share/kr_python_interface/cmake/kr_python_interfaceConfig-version.cmake /home/xechariah/projects/entry_level_project/devel/share/kr_python_interface/cmake/kr_python_interfaceConfig-version.cmake
+/home/xechariah/projects/entry_level_project/devel/.private/kr_python_interface/share/kr_python_interface/cmake/kr_python_interfaceConfig.cmake /home/xechariah/projects/entry_level_project/devel/share/kr_python_interface/cmake/kr_python_interfaceConfig.cmake

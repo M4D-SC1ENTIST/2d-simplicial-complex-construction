@@ -1,0 +1,8 @@
+prefix=/home/xechariah/projects/entry_level_project/devel/.private/kr_python_interface
+
+Name: kr_python_interface
+Description: Description of kr_python_interface
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

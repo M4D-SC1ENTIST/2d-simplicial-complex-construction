@@ -1,0 +1,6 @@
+kr_mav_control/interfaces/kr_crazyflie_interface
+/home/xechariah/projects/entry_level_project/devel/.private/kr_crazyflie_interface/cmake.lock /home/xechariah/projects/entry_level_project/devel/./cmake.lock
+/home/xechariah/projects/entry_level_project/devel/.private/kr_crazyflie_interface/lib/libkr_crazyflie_interface.so /home/xechariah/projects/entry_level_project/devel/lib/libkr_crazyflie_interface.so
+/home/xechariah/projects/entry_level_project/devel/.private/kr_crazyflie_interface/lib/pkgconfig/kr_crazyflie_interface.pc /home/xechariah/projects/entry_level_project/devel/lib/pkgconfig/kr_crazyflie_interface.pc
+/home/xechariah/projects/entry_level_project/devel/.private/kr_crazyflie_interface/share/kr_crazyflie_interface/cmake/kr_crazyflie_interfaceConfig-version.cmake /home/xechariah/projects/entry_level_project/devel/share/kr_crazyflie_interface/cmake/kr_crazyflie_interfaceConfig-version.cmake
+/home/xechariah/projects/entry_level_project/devel/.private/kr_crazyflie_interface/share/kr_crazyflie_interface/cmake/kr_crazyflie_interfaceConfig.cmake /home/xechariah/projects/entry_level_project/devel/share/kr_crazyflie_interface/cmake/kr_crazyflie_interfaceConfig.cmake

@@ -1,0 +1,8 @@
+prefix=/home/xechariah/projects/entry_level_project/devel/.private/bspline
+
+Name: bspline
+Description: Description of bspline
+Version: 0.0.0
+Cflags: -I/home/xechariah/projects/entry_level_project/src/Fast-Planner/planner/bspline/include
+Libs: -L${prefix}/lib -lbspline
+Requires: 

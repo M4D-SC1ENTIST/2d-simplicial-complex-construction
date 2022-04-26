@@ -1,0 +1,8 @@
+[01m[K/home/xechariah/projects/entry_level_project/src/Fast-Planner/plan_env/src/obj_predictor.cpp:[m[K In member function ‘[01m[Kvoid fast_planner::ObjHistory::poseCallback(const PoseStampedConstPtr&)[m[K’:
+[01m[K/home/xechariah/projects/entry_level_project/src/Fast-Planner/plan_env/src/obj_predictor.cpp:53:23:[m[K [01;35m[Kwarning: [m[Kcomparison of integer expressions of different signedness: ‘[01m[Kstd::__cxx11::list<Eigen::Matrix<double, 4, 1> >::size_type[m[K’ {aka ‘[01m[Klong unsigned int[m[K’} and ‘[01m[Kint[m[K’ [[01;35m[K-Wsign-compare[m[K]
+   53 |   if ([01;35m[Khistory_.size() > queue_size_[m[K) history_.pop_front();
+      |       [01;35m[K~~~~~~~~~~~~~~~~^~~~~~~~~~~~~[m[K
+[01m[K/home/xechariah/projects/entry_level_project/src/Fast-Planner/plan_env/src/edt_environment.cpp:[m[K In member function ‘[01m[Kdouble fast_planner::EDTEnvironment::minDistToAllBox(const Vector3d&, const double&)[m[K’:
+[01m[K/home/xechariah/projects/entry_level_project/src/Fast-Planner/plan_env/src/edt_environment.cpp:66:21:[m[K [01;35m[Kwarning: [m[Kcomparison of integer expressions of different signedness: ‘[01m[Kint[m[K’ and ‘[01m[Kstd::vector<fast_planner::PolynomialPrediction>::size_type[m[K’ {aka ‘[01m[Klong unsigned int[m[K’} [[01;35m[K-Wsign-compare[m[K]
+   66 |   for (int i = 0; [01;35m[Ki < obj_prediction_->size()[m[K; i++) {
+      |                   [01;35m[K~~^~~~~~~~~~~~~~~~~~~~~~~~~[m[K

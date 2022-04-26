@@ -1,0 +1,65 @@
+[01m[K/home/xechariah/projects/entry_level_project/src/Fast-Planner/planner/plan_manage/src/topo_replan_fsm.cpp:[m[K In member function ‘[01m[Kvoid fast_planner::TopoReplanFSM::execFSMCallback(const ros::TimerEvent&)[m[K’:
+[01m[K/home/xechariah/projects/entry_level_project/src/Fast-Planner/planner/plan_manage/src/topo_replan_fsm.cpp:254:25:[m[K [01;35m[Kwarning: [m[Kvariable ‘[01m[Kstart_pos[m[K’ set but not used [[01;35m[K-Wunused-but-set-variable[m[K]
+  254 |         Eigen::Vector3d [01;35m[Kstart_pos[m[K = info->start_pos_;
+      |                         [01;35m[K^~~~~~~~~[m[K
+[01m[K/home/xechariah/projects/entry_level_project/src/Fast-Planner/planner/plan_manage/src/topo_replan_fsm.cpp:[m[K In member function ‘[01m[Kvoid fast_planner::TopoReplanFSM::checkCollisionCallback(const ros::TimerEvent&)[m[K’:
+[01m[K/home/xechariah/projects/entry_level_project/src/Fast-Planner/planner/plan_manage/src/topo_replan_fsm.cpp:351:14:[m[K [01;35m[Kwarning: [m[Kunused variable ‘[01m[Knew_goal[m[K’ [[01;35m[K-Wunused-variable[m[K]
+  351 |         bool [01;35m[Knew_goal[m[K = false;
+      |              [01;35m[K^~~~~~~~[m[K
+[01m[K/home/xechariah/projects/entry_level_project/src/Fast-Planner/planner/plan_manage/src/topo_replan_fsm.cpp:[m[K In member function ‘[01m[Kbool fast_planner::TopoReplanFSM::callSearchAndOptimization()[m[K’:
+[01m[K/home/xechariah/projects/entry_level_project/src/Fast-Planner/planner/plan_manage/src/topo_replan_fsm.cpp:443:52:[m[K [01;35m[Kwarning: [m[Kno return statement in function returning non-void [[01;35m[K-Wreturn-type[m[K]
+  443 |   bool TopoReplanFSM::callSearchAndOptimization() {[01;35m[K}[m[K
+      |                                                    [01;35m[K^[m[K
+[01m[K/home/xechariah/projects/entry_level_project/src/Fast-Planner/planner/plan_manage/src/kino_replan_fsm.cpp:[m[K In member function ‘[01m[Kvoid fast_planner::KinoReplanFSM::execFSMCallback(const ros::TimerEvent&)[m[K’:
+[01m[K/home/xechariah/projects/entry_level_project/src/Fast-Planner/planner/plan_manage/src/kino_replan_fsm.cpp:159:10:[m[K [01;35m[Kwarning: [m[Kenumeration value ‘[01m[KREPLAN_NEW[m[K’ not handled in switch [[01;35m[K-Wswitch[m[K]
+  159 |   switch [01;35m[K([m[Kexec_state_) {
+      |          [01;35m[K^[m[K
+[01m[K/home/xechariah/projects/entry_level_project/src/Fast-Planner/planner/plan_manage/src/kino_replan_fsm.cpp:[m[K In member function ‘[01m[Kvoid fast_planner::KinoReplanFSM::checkCollisionCallback(const ros::TimerEvent&)[m[K’:
+[01m[K/home/xechariah/projects/entry_level_project/src/Fast-Planner/planner/plan_manage/src/kino_replan_fsm.cpp:273:23:[m[K [01;35m[Kwarning: [m[Kunused variable ‘[01m[Knew_goal[m[K’ [[01;35m[K-Wunused-variable[m[K]
+  273 |       bool            [01;35m[Knew_goal[m[K = false;
+      |                       [01;35m[K^~~~~~~~[m[K
+[01m[K/home/xechariah/projects/entry_level_project/src/Fast-Planner/planner/plan_manage/src/planner_manager.cpp:[m[K In member function ‘[01m[Kvoid fast_planner::FastPlannerManager::initPlanModules(ros::NodeHandle&)[m[K’:
+[01m[K/home/xechariah/projects/entry_level_project/src/Fast-Planner/planner/plan_manage/src/planner_manager.cpp:49:83:[m[K [01;35m[Kwarning: [m[Kunused variable ‘[01m[Kuse_active_perception[m[K’ [[01;35m[K-Wunused-variable[m[K]
+   49 |   bool use_geometric_path, use_kinodynamic_path, use_topo_path, use_optimization, [01;35m[Kuse_active_perception[m[K;
+      |                                                                                   [01;35m[K^~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/xechariah/projects/entry_level_project/src/Fast-Planner/planner/plan_manage/src/planner_manager.cpp:[m[K In member function ‘[01m[Kbool fast_planner::FastPlannerManager::kinodynamicReplan(Eigen::Vector3d, Eigen::Vector3d, Eigen::Vector3d, Eigen::Vector3d, Eigen::Vector3d)[m[K’:
+[01m[K/home/xechariah/projects/entry_level_project/src/Fast-Planner/planner/plan_manage/src/planner_manager.cpp:146:19:[m[K [01;35m[Kwarning: [m[Kvariable ‘[01m[Kinit_pos[m[K’ set but not used [[01;35m[K-Wunused-but-set-variable[m[K]
+  146 |   Eigen::Vector3d [01;35m[Kinit_pos[m[K = start_pt;
+      |                   [01;35m[K^~~~~~~~[m[K
+[01m[K/home/xechariah/projects/entry_level_project/src/Fast-Planner/planner/plan_manage/src/planner_manager.cpp:147:19:[m[K [01;35m[Kwarning: [m[Kvariable ‘[01m[Kinit_vel[m[K’ set but not used [[01;35m[K-Wunused-but-set-variable[m[K]
+  147 |   Eigen::Vector3d [01;35m[Kinit_vel[m[K = start_vel;
+      |                   [01;35m[K^~~~~~~~[m[K
+[01m[K/home/xechariah/projects/entry_level_project/src/Fast-Planner/planner/plan_manage/src/planner_manager.cpp:148:19:[m[K [01;35m[Kwarning: [m[Kvariable ‘[01m[Kinit_acc[m[K’ set but not used [[01;35m[K-Wunused-but-set-variable[m[K]
+  148 |   Eigen::Vector3d [01;35m[Kinit_acc[m[K = start_acc;
+      |                   [01;35m[K^~~~~~~~[m[K
+[01m[K/home/xechariah/projects/entry_level_project/src/Fast-Planner/planner/plan_manage/src/planner_manager.cpp:[m[K In member function ‘[01m[Kbool fast_planner::FastPlannerManager::planGlobalTraj(const Vector3d&)[m[K’:
+[01m[K/home/xechariah/projects/entry_level_project/src/Fast-Planner/planner/plan_manage/src/planner_manager.cpp:266:21:[m[K [01;35m[Kwarning: [m[Kcomparison of integer expressions of different signedness: ‘[01m[Kint[m[K’ and ‘[01m[Kstd::vector<Eigen::Matrix<double, 3, 1> >::size_type[m[K’ {aka ‘[01m[Klong unsigned int[m[K’} [[01;35m[K-Wsign-compare[m[K]
+  266 |   for (int i = 0; [01;35m[Ki < points.size() - 1[m[K; ++i) {
+      |                   [01;35m[K~~^~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/xechariah/projects/entry_level_project/src/Fast-Planner/planner/plan_manage/src/planner_manager.cpp:[m[K In member function ‘[01m[Kbool fast_planner::FastPlannerManager::topoReplan(bool)[m[K’:
+[01m[K/home/xechariah/projects/entry_level_project/src/Fast-Planner/planner/plan_manage/src/planner_manager.cpp:377:25:[m[K [01;35m[Kwarning: [m[Kcomparison of integer expressions of different signedness: ‘[01m[Kint[m[K’ and ‘[01m[Kstd::vector<std::vector<Eigen::Matrix<double, 3, 1> > >::size_type[m[K’ {aka ‘[01m[Klong unsigned int[m[K’} [[01;35m[K-Wsign-compare[m[K]
+  377 |       for (int i = 0; [01;35m[Ki < select_paths.size()[m[K; ++i) {
+      |                       [01;35m[K~~^~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/xechariah/projects/entry_level_project/src/Fast-Planner/planner/plan_manage/src/planner_manager.cpp:383:25:[m[K [01;35m[Kwarning: [m[Kcomparison of integer expressions of different signedness: ‘[01m[Kint[m[K’ and ‘[01m[Kstd::vector<std::vector<Eigen::Matrix<double, 3, 1> > >::size_type[m[K’ {aka ‘[01m[Klong unsigned int[m[K’} [[01;35m[K-Wsign-compare[m[K]
+  383 |       for (int i = 0; [01;35m[Ki < select_paths.size()[m[K; ++i) optimize_threads[i].join();
+      |                       [01;35m[K~~^~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/xechariah/projects/entry_level_project/src/Fast-Planner/planner/plan_manage/src/planner_manager.cpp:[m[K In member function ‘[01m[Kvoid fast_planner::FastPlannerManager::refineTraj(fast_planner::NonUniformBspline&, double&)[m[K’:
+[01m[K/home/xechariah/projects/entry_level_project/src/Fast-Planner/planner/plan_manage/src/planner_manager.cpp:411:13:[m[K [01;35m[Kwarning: [m[Kunused variable ‘[01m[Kmax_iter[m[K’ [[01;35m[K-Wunused-variable[m[K]
+  411 |   const int [01;35m[Kmax_iter[m[K = 1;
+      |             [01;35m[K^~~~~~~~[m[K
+[01m[K/home/xechariah/projects/entry_level_project/src/Fast-Planner/planner/plan_manage/src/planner_manager.cpp:[m[K In member function ‘[01m[Kvoid fast_planner::FastPlannerManager::reparamBspline(fast_planner::NonUniformBspline&, double, Eigen::MatrixXd&, double&, double&)[m[K’:
+[01m[K/home/xechariah/projects/entry_level_project/src/Fast-Planner/planner/plan_manage/src/planner_manager.cpp:439:10:[m[K [01;35m[Kwarning: [m[Kunused variable ‘[01m[Kprev_num[m[K’ [[01;35m[K-Wunused-variable[m[K]
+  439 |   int    [01;35m[Kprev_num[m[K    = bspline.getControlPoint().rows();
+      |          [01;35m[K^~~~~~~~[m[K
+[01m[K/home/xechariah/projects/entry_level_project/src/Fast-Planner/planner/plan_manage/src/planner_manager.cpp:[m[K In member function ‘[01m[Kvoid fast_planner::FastPlannerManager::optimizeTopoBspline(double, double, std::vector<Eigen::Matrix<double, 3, 1> >, int)[m[K’:
+[01m[K/home/xechariah/projects/entry_level_project/src/Fast-Planner/planner/plan_manage/src/planner_manager.cpp:484:23:[m[K [01;35m[Kwarning: [m[Kcomparison of integer expressions of different signedness: ‘[01m[Kstd::vector<Eigen::Matrix<double, 3, 1> >::size_type[m[K’ {aka ‘[01m[Klong unsigned int[m[K’} and ‘[01m[Kint[m[K’ [[01;35m[K-Wsign-compare[m[K]
+  484 |   if ([01;35m[Kguide_pt.size() != int(ctrl_pts.rows()) - 6[m[K) ROS_WARN("what guide");
+      |       [01;35m[K~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/xechariah/projects/entry_level_project/src/Fast-Planner/planner/plan_manage/src/planner_manager.cpp:[m[K In member function ‘[01m[Kvoid fast_planner::FastPlannerManager::planYaw(const Vector3d&)[m[K’:
+[01m[K/home/xechariah/projects/entry_level_project/src/Fast-Planner/planner/plan_manage/src/planner_manager.cpp:671:21:[m[K [01;35m[Kwarning: [m[Kcomparison of integer expressions of different signedness: ‘[01m[Kint[m[K’ and ‘[01m[Kstd::vector<Eigen::Matrix<double, 3, 1> >::size_type[m[K’ {aka ‘[01m[Klong unsigned int[m[K’} [[01;35m[K-Wsign-compare[m[K]
+  671 |   for (int i = 0; [01;35m[Ki < waypts.size()[m[K; ++i) path_yaw.push_back(waypts[i][0]);
+      |                   [01;35m[K~~^~~~~~~~~~~~~~~[m[K
+[01m[K/home/xechariah/projects/entry_level_project/src/Fast-Planner/planner/plan_manage/src/planner_manager.cpp:[m[K In member function ‘[01m[Kvoid fast_planner::FastPlannerManager::findCollisionRange(std::vector<Eigen::Matrix<double, 3, 1> >&, std::vector<Eigen::Matrix<double, 3, 1> >&, std::vector<Eigen::Matrix<double, 3, 1> >&, std::vector<Eigen::Matrix<double, 3, 1> >&)[m[K’:
+[01m[K/home/xechariah/projects/entry_level_project/src/Fast-Planner/planner/plan_manage/src/planner_manager.cpp:587:19:[m[K [01;35m[Kwarning: [m[K‘[01m[Kt_e[m[K’ may be used uninitialized in this function [[01;35m[K-Wmaybe-uninitialized[m[K]
+  587 |   sn = ceil([01;35m[K(t_mp - t_e)[m[K / dt);
+      |             [01;35m[K~~~~~~^~~~~~[m[K

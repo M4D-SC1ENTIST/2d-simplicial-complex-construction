@@ -1,0 +1,13 @@
+[01m[K/home/xechariah/projects/entry_level_project/src/Fast-Planner/map_generator/src/random_forest_sensing.cpp:[m[K In function ‘[01m[Kvoid RandomMapGenerate(ros::NodeHandle)[m[K’:
+[01m[K/home/xechariah/projects/entry_level_project/src/Fast-Planner/map_generator/src/random_forest_sensing.cpp:148:31:[m[K [01;35m[Kwarning: [m[Kleft operand of comma operator has no effect [[01;35m[K-Wunused-value[m[K]
+  148 |     obstacle_information.data[[01;35m[Ki[m[K, 0] = x;
+      |                               [01;35m[K^[m[K
+[01m[K/home/xechariah/projects/entry_level_project/src/Fast-Planner/map_generator/src/random_forest_sensing.cpp:149:31:[m[K [01;35m[Kwarning: [m[Kleft operand of comma operator has no effect [[01;35m[K-Wunused-value[m[K]
+  149 |     obstacle_information.data[[01;35m[Ki[m[K, 1] = y;
+      |                               [01;35m[K^[m[K
+[01m[K/home/xechariah/projects/entry_level_project/src/Fast-Planner/map_generator/src/random_forest_sensing.cpp:150:31:[m[K [01;35m[Kwarning: [m[Kleft operand of comma operator has no effect [[01;35m[K-Wunused-value[m[K]
+  150 |     obstacle_information.data[[01;35m[Ki[m[K, 2] = 0.5 * h;
+      |                               [01;35m[K^[m[K
+[01m[K/home/xechariah/projects/entry_level_project/src/Fast-Planner/map_generator/src/random_forest_sensing.cpp:151:31:[m[K [01;35m[Kwarning: [m[Kleft operand of comma operator has no effect [[01;35m[K-Wunused-value[m[K]
+  151 |     obstacle_information.data[[01;35m[Ki[m[K, 3] = w;
+      |                               [01;35m[K^[m[K

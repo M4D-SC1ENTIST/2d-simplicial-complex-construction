@@ -1,0 +1,8 @@
+kr_mav_control/kr_quadrotor_simulator
+/home/xechariah/projects/entry_level_project/devel/.private/kr_quadrotor_simulator/cmake.lock /home/xechariah/projects/entry_level_project/devel/./cmake.lock
+/home/xechariah/projects/entry_level_project/devel/.private/kr_quadrotor_simulator/lib/libkr_quadrotor_dynamics.so /home/xechariah/projects/entry_level_project/devel/lib/libkr_quadrotor_dynamics.so
+/home/xechariah/projects/entry_level_project/devel/.private/kr_quadrotor_simulator/lib/pkgconfig/kr_quadrotor_simulator.pc /home/xechariah/projects/entry_level_project/devel/lib/pkgconfig/kr_quadrotor_simulator.pc
+/home/xechariah/projects/entry_level_project/devel/.private/kr_quadrotor_simulator/lib/kr_quadrotor_simulator/kr_quadrotor_simulator_so3 /home/xechariah/projects/entry_level_project/devel/lib/kr_quadrotor_simulator/kr_quadrotor_simulator_so3
+/home/xechariah/projects/entry_level_project/devel/.private/kr_quadrotor_simulator/lib/kr_quadrotor_simulator/kr_quadrotor_simulator_trpy /home/xechariah/projects/entry_level_project/devel/lib/kr_quadrotor_simulator/kr_quadrotor_simulator_trpy
+/home/xechariah/projects/entry_level_project/devel/.private/kr_quadrotor_simulator/share/kr_quadrotor_simulator/cmake/kr_quadrotor_simulatorConfig.cmake /home/xechariah/projects/entry_level_project/devel/share/kr_quadrotor_simulator/cmake/kr_quadrotor_simulatorConfig.cmake
+/home/xechariah/projects/entry_level_project/devel/.private/kr_quadrotor_simulator/share/kr_quadrotor_simulator/cmake/kr_quadrotor_simulatorConfig-version.cmake /home/xechariah/projects/entry_level_project/devel/share/kr_quadrotor_simulator/cmake/kr_quadrotor_simulatorConfig-version.cmake

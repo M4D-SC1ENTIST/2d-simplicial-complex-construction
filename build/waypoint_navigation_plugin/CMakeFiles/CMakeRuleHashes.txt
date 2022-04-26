@@ -1,0 +1,5 @@
+# Hashes of file build rules.
+0fa8d7685ebcfc08231ab36d05712761 CMakeFiles/clean_test_results
+b22c56009ac8a7590d6f85f21ea0e273 src/moc_waypoint_nav_frame.cpp
+7491468037cdab73629ec85c81636423 src/moc_waypoint_nav_tool.cpp
+7ca2db5641c0f1b6df2c832df1a00909 ui_WaypointNavigation.h

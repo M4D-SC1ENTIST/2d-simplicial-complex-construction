@@ -1,0 +1,8 @@
+prefix=/home/xechariah/projects/entry_level_project/devel/.private/kr_trackers
+
+Name: kr_trackers
+Description: Description of kr_trackers
+Version: 1.0.0
+Cflags: -I/home/xechariah/projects/entry_level_project/src/kr_mav_control/trackers/kr_trackers/include -I/usr/include/eigen3
+Libs: -L${prefix}/lib -lkr_trackers
+Requires: actionlib std_msgs geometry_msgs nav_msgs tf kr_mav_msgs kr_tracker_msgs kr_trackers_manager bspline

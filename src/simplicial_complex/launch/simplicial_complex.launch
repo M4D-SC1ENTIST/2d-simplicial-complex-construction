@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="simplicial_complex" type="obstacles_quadrotor_information.py" name="obstacles_quadrotor_information_node" output="screen"></node>
+</launch>

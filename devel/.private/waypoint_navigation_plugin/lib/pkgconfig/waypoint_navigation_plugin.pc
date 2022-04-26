@@ -1,0 +1,8 @@
+prefix=/home/xechariah/projects/entry_level_project/devel/.private/waypoint_navigation_plugin
+
+Name: waypoint_navigation_plugin
+Description: Description of waypoint_navigation_plugin
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
