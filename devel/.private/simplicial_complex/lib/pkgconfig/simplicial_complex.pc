@@ -1,8 +1,0 @@
-prefix=/home/xechariah/projects/entry_level_project/devel/.private/simplicial_complex
-
-Name: simplicial_complex
-Description: Description of simplicial_complex
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

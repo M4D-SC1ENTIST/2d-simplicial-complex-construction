@@ -1,8 +1,0 @@
-prefix=/home/xechariah/projects/entry_level_project/devel/.private/map_generator
-
-Name: map_generator
-Description: Description of map_generator
-Version: 1.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

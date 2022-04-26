@@ -1,8 +1,0 @@
-prefix=/home/xechariah/projects/entry_level_project/devel/.private/plan_env
-
-Name: plan_env
-Description: Description of plan_env
-Version: 0.0.0
-Cflags: -I/home/xechariah/projects/entry_level_project/src/Fast-Planner/plan_env/include
-Libs: -L${prefix}/lib -lplan_env
-Requires: roscpp std_msgs

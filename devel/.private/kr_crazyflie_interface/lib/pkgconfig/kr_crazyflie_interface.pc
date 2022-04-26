@@ -1,8 +1,0 @@
-prefix=/home/xechariah/projects/entry_level_project/devel/.private/kr_crazyflie_interface
-
-Name: kr_crazyflie_interface
-Description: Description of kr_crazyflie_interface
-Version: 1.0.0
-Cflags: -I/usr/include/eigen3
-Libs: -L${prefix}/lib -lkr_crazyflie_interface
-Requires: roscpp nav_msgs geometry_msgs kr_mav_msgs nodelet

@@ -1,8 +1,0 @@
-prefix=/home/xechariah/projects/entry_level_project/devel/.private/traj_utils
-
-Name: traj_utils
-Description: Description of traj_utils
-Version: 0.0.0
-Cflags: -I/home/xechariah/projects/entry_level_project/src/Fast-Planner/planner/traj_utils/include
-Libs: -L${prefix}/lib -ltraj_utils
-Requires: path_searching bspline poly_traj

@@ -1,2 +1,0 @@
-kr_mav_control/interfaces/kr_qualcomm_interface
-/home/xechariah/projects/entry_level_project/devel/.private/kr_qualcomm_interface/cmake.lock /home/xechariah/projects/entry_level_project/devel/./cmake.lock

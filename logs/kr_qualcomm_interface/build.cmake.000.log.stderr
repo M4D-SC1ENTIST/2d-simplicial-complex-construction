@@ -1,4 +1,0 @@
-[33m[1mCMake Warning[0m at /home/xechariah/projects/entry_level_project/src/kr_mav_control/interfaces/kr_qualcomm_interface/CMakeLists.txt:27 (message):
-  NOTE: snav not found so not building kr_qualcomm_interface
-
-

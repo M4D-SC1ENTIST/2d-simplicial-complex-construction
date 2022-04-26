@@ -1,6 +1,0 @@
-Fast-Planner/planner/bspline_opt
-/home/xechariah/projects/entry_level_project/devel/.private/bspline_opt/cmake.lock /home/xechariah/projects/entry_level_project/devel/./cmake.lock
-/home/xechariah/projects/entry_level_project/devel/.private/bspline_opt/lib/libbspline_opt.so /home/xechariah/projects/entry_level_project/devel/lib/libbspline_opt.so
-/home/xechariah/projects/entry_level_project/devel/.private/bspline_opt/lib/pkgconfig/bspline_opt.pc /home/xechariah/projects/entry_level_project/devel/lib/pkgconfig/bspline_opt.pc
-/home/xechariah/projects/entry_level_project/devel/.private/bspline_opt/share/bspline_opt/cmake/bspline_optConfig-version.cmake /home/xechariah/projects/entry_level_project/devel/share/bspline_opt/cmake/bspline_optConfig-version.cmake
-/home/xechariah/projects/entry_level_project/devel/.private/bspline_opt/share/bspline_opt/cmake/bspline_optConfig.cmake /home/xechariah/projects/entry_level_project/devel/share/bspline_opt/cmake/bspline_optConfig.cmake

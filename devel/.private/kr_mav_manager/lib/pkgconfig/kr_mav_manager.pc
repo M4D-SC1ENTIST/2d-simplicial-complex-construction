@@ -1,8 +1,0 @@
-prefix=/home/xechariah/projects/entry_level_project/devel/.private/kr_mav_manager
-
-Name: kr_mav_manager
-Description: Description of kr_mav_manager
-Version: 1.0.0
-Cflags: -I/home/xechariah/projects/entry_level_project/devel/.private/kr_mav_manager/include -I/home/xechariah/projects/entry_level_project/src/kr_mav_control/kr_mav_manager/include -I/usr/include/eigen3
-Libs: -L${prefix}/lib -lkr_mav_manager
-Requires: roscpp std_msgs nav_msgs sensor_msgs geometry_msgs kr_mav_msgs kr_tracker_msgs message_runtime

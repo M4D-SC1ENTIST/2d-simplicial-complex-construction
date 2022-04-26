@@ -1,6 +1,0 @@
-kr_mav_control/trackers/kr_trackers_manager
-/home/xechariah/projects/entry_level_project/devel/.private/kr_trackers_manager/cmake.lock /home/xechariah/projects/entry_level_project/devel/./cmake.lock
-/home/xechariah/projects/entry_level_project/devel/.private/kr_trackers_manager/lib/libkr_trackers_manager.so /home/xechariah/projects/entry_level_project/devel/lib/libkr_trackers_manager.so
-/home/xechariah/projects/entry_level_project/devel/.private/kr_trackers_manager/lib/pkgconfig/kr_trackers_manager.pc /home/xechariah/projects/entry_level_project/devel/lib/pkgconfig/kr_trackers_manager.pc
-/home/xechariah/projects/entry_level_project/devel/.private/kr_trackers_manager/share/kr_trackers_manager/cmake/kr_trackers_managerConfig-version.cmake /home/xechariah/projects/entry_level_project/devel/share/kr_trackers_manager/cmake/kr_trackers_managerConfig-version.cmake
-/home/xechariah/projects/entry_level_project/devel/.private/kr_trackers_manager/share/kr_trackers_manager/cmake/kr_trackers_managerConfig.cmake /home/xechariah/projects/entry_level_project/devel/share/kr_trackers_manager/cmake/kr_trackers_managerConfig.cmake
